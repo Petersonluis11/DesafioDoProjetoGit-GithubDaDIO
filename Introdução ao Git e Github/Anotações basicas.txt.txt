@@ -1,0 +1,18 @@
+- O Git é um terminal que versiona projetos para ser rastreado pelo Github
+- O Github é uma plataforma poliglota que ajuda Devs do mundo todo a interagirem 
+com seus códigos e públicarem os prójetos para consulta aberta
+
+O Git veio para facilitar a vida dos desenvolvedores, pois por exemplo, 
+há possibilidade de em um mesmo projeto duas ou mais pessoas trabalharem sem prejudicar o projeto, 
+criando uma ramificação ( cópia do projeto ) e de forma simultania modificarem partes do projeto
+e quando acabarem podem juntar esses ramos ao projeto pricncipal
+
+Comandos básicos para uma públicação do git para o github:
+git init ( inicia e versiona o projeto )
+git status ( verifica todos os arquivos versionados )
+git add . ( adiciona todos os arquivos de uma vez )
+git commit -m "frase sobre o projeto" ( registra todos os arquivos e alterações do projeto )
+
+obs.
+Link para download do Git:  https://git-scm.com/download/win
+- O GitBash é um terminal extendido que otimiza a ultilização do Git.
